@@ -1,4 +1,4 @@
-# Image-Steganography
+# Tag Prediction using Multi-Label Text-Classification
 Tag Prediction for Stack overflow questions using Multi-Label Text Classification.
 ### Data set link:
 https://www.kaggle.com/datasets/stackoverflow/stacksample 
